@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
