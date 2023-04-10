@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
