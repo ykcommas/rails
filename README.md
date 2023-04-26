@@ -1,1 +1,1 @@
-ultralytics 8.0.234 VOC exist_ok=True unzip fix (#7295)
+Add YOLOv8-OBB https://youtu.be/Z7Z9pHF8wJc (#7780)
