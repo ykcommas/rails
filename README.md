@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
