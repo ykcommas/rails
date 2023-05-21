@@ -1,1 +1,1 @@
-Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
+Compress explorer image in dataset/index.md + description added for new segmentation datasets (#7901)
