@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Update Docs language dropdown height (#6927)
