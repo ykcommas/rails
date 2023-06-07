@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+docs: update view-results-in-terminal.md (#66)
