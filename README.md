@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Python refactorings and simplifications (#7549)
