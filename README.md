@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Resize angle, count, and stage on keypoint number change (#7598)
