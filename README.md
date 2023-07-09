@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+* fix for predicting with batch_size > 1
