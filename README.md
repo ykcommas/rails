@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+ultralytics 8.0.227 respect defaults.yaml data (#6935)
