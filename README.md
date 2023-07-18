@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
