@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
