@@ -1,1 +1,1 @@
-Add docstrings to new HUB functions (#7576)
+Update Twitter icon in Docs (#7711)
