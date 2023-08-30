@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Add docstrings to new HUB functions (#7576)
