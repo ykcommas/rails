@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
