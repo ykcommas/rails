@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+OpenVino 2024.0.0 (#8726)
