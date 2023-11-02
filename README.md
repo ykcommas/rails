@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
