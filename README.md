@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Capitalize OBB acronym (#7383)
