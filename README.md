@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Pass callbacks to validator (#7320)
