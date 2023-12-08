@@ -1,1 +1,1 @@
-Explorer with LanceDB, Actions and Docs updates (#7487)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
