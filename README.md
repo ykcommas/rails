@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
