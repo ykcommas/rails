@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Fix cmake requirements for ARM64 (#8589)
