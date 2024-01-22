@@ -1,1 +1,1 @@
-Explorer Cleanup (#7364)
+Add docstrings to new HUB functions (#7576)
