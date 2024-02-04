@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Avoid creating -hub dir without processing images (#8334)
