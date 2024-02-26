@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
