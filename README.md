@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+OBB: Fix plot_images (#7592)
