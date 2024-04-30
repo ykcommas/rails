@@ -1,1 +1,1 @@
-Pass callbacks to validator (#7320)
+ultralytics 8.0.225 multi-video tracker bug fix (#6862)
