@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Resize angle, count, and stage on keypoint number change (#7598)
