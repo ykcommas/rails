@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
