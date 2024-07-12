@@ -1,1 +1,1 @@
-ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
