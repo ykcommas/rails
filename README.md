@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Model typehints Docker fix (#8306)
