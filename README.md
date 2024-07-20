@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add Weights & Biases Docs integrations page (#7199)
