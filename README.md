@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Improve Docs arguments tables (#8415)
