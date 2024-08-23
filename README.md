@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add PaddlePaddle Docs Integrations Page (#8858)
