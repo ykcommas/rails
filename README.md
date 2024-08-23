@@ -1,1 +1,1 @@
-Add distance calculation feature in vision-eye (#8616)
+Auto-format by https://ultralytics.com/actions
