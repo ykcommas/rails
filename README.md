@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
