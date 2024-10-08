@@ -1,1 +1,1 @@
-Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
