@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
