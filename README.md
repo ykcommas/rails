@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
